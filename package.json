@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "An example of professional grade backend.",
+  "keywords": [
+    "javaScript",
+    "backend",
+    "node"
+  ],
+  "license": "ISC",
+  "author": "Shivam Thakur",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
